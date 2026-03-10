@@ -1,12 +1,6 @@
 # <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=32&pause=1000&vCenter=true&width=800&lines=Real-time+Stock+Trading+API">
 </div>
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsZpXk5v5sZmH7q/giphy.gif" alt="Trading GIF" width="400"/>
-</div>
-<br/>
 
 <h3 align="center">
 A Node.js + TypeScript + Express + Socket.io API for **simulated real-time stock trading**. 
